@@ -8,7 +8,7 @@ import locale
 @st.cache_data
 def carregar_dados():
 
-    df = pd.read_excel(r'C:\Users\d0s_sant\Documents\Imersão Dashboard em Python\Dataset\Vendas.xlsx')
+    df = pd.read_excel('Vendas.xlsx')
 
     return df
 
