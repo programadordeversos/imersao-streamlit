@@ -4,5 +4,6 @@ pyodbc == 5.0.1
 plotly_express 
 numpy == 1.26.2
 streamlit-extras == 0.3.6
+pyodbc
 openpyxl == 3.1.2
 locale 
