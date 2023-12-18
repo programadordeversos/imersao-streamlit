@@ -3,6 +3,6 @@ pandas == 2.1.4
 pyodbc == 5.0.1
 plotly_express 
 numpy == 1.26.2
-streamlit-extras
+streamlit-extras == 0.3.6
 openpyxl == 3.1.2
 locale 
